@@ -7,10 +7,10 @@ features. It also provides a delay trend visualization by flight origin.
 
 <br>🔍 Flight Delay Prediction using a trained RandomForestClassifier</br>
 <br>📊 Dynamic line chart visualizing delays by origin airport</br>
-🧠 Incorporates SMOTE to handle class imbalance
-🎯 Encodes categorical data using LabelEncoder
-💾 Stores trained model and encoders as pickle files for reuse
-🖼 Simple and responsive frontend with HTML + CSS
+<br>🧠 Incorporates SMOTE to handle class imbalance</br>
+<br>🎯 Encodes categorical data using LabelEncoder</br>
+<br>💾 Stores trained model and encoders as pickle files for reuse</br>
+<br>🖼 Simple and responsive frontend with HTML + CSS</br>
 
 🧠 Machine Learning Pipeline
 
