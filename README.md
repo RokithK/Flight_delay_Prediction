@@ -5,8 +5,8 @@ features. It also provides a delay trend visualization by flight origin.
 
 🚀 Features
 
-🔍 Flight Delay Prediction using a trained RandomForestClassifier
-📊 Dynamic line chart visualizing delays by origin airport
+<br>🔍 Flight Delay Prediction using a trained RandomForestClassifier</br>
+<br>📊 Dynamic line chart visualizing delays by origin airport</br>
 🧠 Incorporates SMOTE to handle class imbalance
 🎯 Encodes categorical data using LabelEncoder
 💾 Stores trained model and encoders as pickle files for reuse
